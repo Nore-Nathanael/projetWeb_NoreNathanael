@@ -1,5 +1,0 @@
-Nom:Nore
-Prenom:Nathanael
-Code:34135
-Classe: Sciences Informatiques Median 
-Devoir:Projet Web
